@@ -71,4 +71,4 @@ Add profit/loss analysis
 
 CodeAlpha Python Programming Internship
 
-Developer : Ishwarya.S
+Developer : Gugan.G
